@@ -1,0 +1,15 @@
+P1- Movie Trailer README 
+
+Files needed (available in folder 'P1 -Movie Trailer')- 
+
+1. media.py
+2. my_movie_page.py
+3. fresh_tomatoes.py
+4. fresh_tomatoes.html
+
+What to do to view the web page?
+
+Make sure to have all the 4 python files in the same folder location.
+
+Double click on fresh_tomatoes.html
+
